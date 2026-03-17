@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(127, 255, 212, 0.529);
+}
+article {
+  margin: 40px auto;
+  max-width: 800px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid rgba(10, 94, 66, 0.529);
+}
+
+h2 {
+  color: #3b81ba;
+  font-size: 41px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #3b81ba;
+}
+
+nav a:hover {
+  color: #ff6347;
+  text-decoration: underline;
+}
